@@ -1,3 +1,1 @@
-# rent_car_app
-
-"A new Flutter project."
+# Rent Car app with Flutter and Dart
